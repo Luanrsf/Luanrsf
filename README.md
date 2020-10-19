@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luanrsf&label=Profile%20views&color=0e75b6&style=flat" alt="luanrsf" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luanrsf" alt="luanrsf" /></a> </p>
 
 - My last work [Costa Florida Paradise Web site](https://github.com/Luanrsf/CostaFloridaParadise)
 
