@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luanrsf&label=Profile%20views&color=0e75b6&style=flat" alt="luanrsf" /> </p>
 
 
-- My last work [Costa Florida Paradise Web site](https://github.com/Luanrsf/CostaFloridaParadise)
-
 - 📫 How to reach me **luanramossfarias@gmail.com**
 
 - ⚡ Fun fact **I'm Musician, i love music and i'll play with any instrument you give me**
