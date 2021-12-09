@@ -6,12 +6,6 @@
 
 - My last work [Costa Florida Paradise Web site](https://github.com/Luanrsf/CostaFloridaParadise)
 
-- 🌱 I’m currently studing on **GoStack from RocketSeat**
-
-- 🤝 I’m looking for help with [Solid Api with TypeScript](https://github.com/Luanrsf/PizzaApiSolid)
-
-- 💬 I try to help you with **ReactJs,TypeScript**
-
 - 📫 How to reach me **luanramossfarias@gmail.com**
 
 - ⚡ Fun fact **I'm Musician, i love music and i'll play with any instrument you give me**
